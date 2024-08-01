@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aF7pvIClqTeqJRjDxnr4Y6EE9xaTsSGnYTHprI8UCDtaQxMX81asfKLpVhTvDS2MaFucbni2FrcsPSXQ4jYQnQ==",
+  "success": true,
+  "projectFilePath": "/Users/yagmur/Documents/C#/RabbitMQ-CSharp/RabbitMQProducer/RabbitMQProducer/RabbitMQProducer.csproj",
+  "expectedPackageFiles": [
+    "/Users/yagmur/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/yagmur/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/Users/yagmur/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/yagmur/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
